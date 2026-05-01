@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PushUnlock</string>
-    <string name="accessibility_service_description">Necessário para bloquear aplicativos e monitorar o tempo de uso.</string>
+    <string name="accessibility_service_description">Este serviço é usado pelo PushUnlock para detectar a abertura de aplicativos bloqueados e restringir o acesso até que o exercício físico seja concluído.</string>
 </resources>
